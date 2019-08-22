@@ -53,6 +53,7 @@
   },
   "dependencies": {
     "immutable": ">=3.8",
+    "deprecated-react-native-listview": ">=0.0.5",
     "prop-types": "^15.5.10"
   },
   "devDependencies": {
